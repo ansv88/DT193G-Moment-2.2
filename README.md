@@ -45,4 +45,4 @@ curl -X POST http://localhost:5000/books \
 ```
 
 ## Publicering / demo
-- 
+- https://dt193g-moment-2-2.onrender.com/
