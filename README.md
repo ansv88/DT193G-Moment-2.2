@@ -43,6 +43,3 @@ curl -X POST http://localhost:5000/books \
   -H "Content-Type: application/json" \
   -d "{\"title\":\"Dune\",\"author\":\"Frank Herbert\",\"datePublished\":1965,\"read\":true}"
 ```
-
-## Publicering / demo
-- https://dt193g-moment-2-2.onrender.com/
