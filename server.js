@@ -12,7 +12,7 @@ const init = async () => {
         host: '0.0.0.0',
         routes: {
             cors: {
-                origin: ['http://localhost:5173'] // Tillåt frontend‑applikationen att anropa API:et under utveckling
+                origin: ['http://localhost:5173', 'https://dt193g-moment-3-booklist.onrender.com'] // Tillåt frontend‑applikationen att anropa API:et under utveckling
             }
         }
     });
